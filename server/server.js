@@ -1,3 +1,5 @@
+//This file handles the server setup, connecting to the database, and serving the documents to clients
+
 const mongoose = require('mongoose')
 const Document = require('./document')
 
